@@ -16,7 +16,7 @@ Run `Week_1___Sketch.pde` in Processing.
 
 _Include an image or video of your work, such as a screengrab or screen recording._
 
-![Image of gradient exploration 1](Screenshot (1).png)
+![image alt](Screenshot (1).png)
 ![Image of gradient exploration 2](Screenshot (2).png)
 ![Image of gradient exploration 3](Screenshot (3).png)
 
