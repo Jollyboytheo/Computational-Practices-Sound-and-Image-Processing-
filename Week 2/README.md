@@ -19,4 +19,4 @@ Run `Week_2_Sketch.pde` in Processing.
 
 ## Design notes
 
-For this project, I wanted to create a gradient using one of my favourite superheroes (The Incredible Hulk) colours, which are green and purple. Following the example provided in class was fairly easy to experiment with and get the desired outcome. 
+For this project, I took a sketch from one of my favourite artists that he used to design the Brit Awards, then I created a new pixel out of two pixels from a source image —a pixel and its neighbour to the left to get the desired outcome.
