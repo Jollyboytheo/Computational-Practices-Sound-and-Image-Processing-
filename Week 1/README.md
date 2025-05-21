@@ -1,6 +1,6 @@
 # Week-01 Task
 
-Experimenting with pixels gradients and colors.
+Experimenting with pixels gradients and colours.
 
 ## Requirements
 
@@ -10,17 +10,17 @@ No special libraries required.
 
 ## Operation
 
-Run `name of code_example.pde` in Processing.
+Run `Week_1___Sketch.pde` in Processing.
 
 ## Screengrab
 
 _Include an image or video of your work, such as a screengrab or screen recording._
 
-![Image of gradient exploration 1](name of the pic.png)
-![Image of gradient exploration 2](name of the pic.png)
-![Image of gradient exploration 3](name of the pic.png)
+![Image of gradient exploration 1](Screenshot (1).png)
+![Image of gradient exploration 2](Screenshot (2).png)
+![Image of gradient exploration 3](Screenshot (3).png)
 
 
 ## Design notes
 
-_for this project, you could include: any particularly challenges you had; ideas for how to approach it that perhaps didn't make it into the sketch; UI ideas/goals. This section only needs to be brief_
+_for this project, I wanted to create a gradient using one of my favourite superheroes (The Incredible Hulk) colours, which are green and purple. Following the example provided in class was fairly easy to experiment with and get the desired outcome. 
