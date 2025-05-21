@@ -19,4 +19,4 @@ Run `Week_2_Sketch.pde` in Processing.
 
 ## Design notes
 
-For this project, I took a sketch from one of my favourite artists that he used to design the Brit Awards, then I created a new pixel out of two pixels from a source image —a pixel and its neighbour to the left to get the desired outcome.
+For this project, I took a sketch from one of my favourite artists that he used to design the Brit Awards, then I created a new pixel out of two pixels from a source image — a pixel and its neighbour to the left to get the desired outcome.
