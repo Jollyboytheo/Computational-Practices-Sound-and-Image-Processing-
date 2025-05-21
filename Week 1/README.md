@@ -14,10 +14,8 @@ Run `Week_1___Sketch.pde` in Processing.
 
 ## Screengrab
 
-_Include an image or video of your work, such as a screengrab or screen recording._
-
 ![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/ffc3bf04285345f1cf62e98aa31addeaf927f7c8/Week%201/Week%201/Screenshot%20(1).png)
-![Image of gradient exploration 2](Screenshot (2).png)
+![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/6e71cebdd5475d218f033b46ee0b381fc1be4418/Week%201/Week%201/Screenshot%20(2).png)
 ![Image of gradient exploration 3](Screenshot (3).png)
 
 
