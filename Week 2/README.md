@@ -14,7 +14,7 @@ Run `Week_2_Sketch.pde` in Processing.
 
 ## Screengrab
 
-![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/ffc3bf04285345f1cf62e98aa31addeaf927f7c8/Week%201/Week%201/Screenshot%20(1).png)
+![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/19fec7fb59048e9d855186883ff6281865508a21/Week%202/Screenshot%20(1).png)
 
 
 ## Design notes
