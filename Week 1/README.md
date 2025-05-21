@@ -21,4 +21,4 @@ Run `Week_1___Sketch.pde` in Processing.
 
 ## Design notes
 
-_for this project, I wanted to create a gradient using one of my favourite superheroes (The Incredible Hulk) colours, which are green and purple. Following the example provided in class was fairly easy to experiment with and get the desired outcome. 
+For this project, I wanted to create a gradient using one of my favourite superheroes (The Incredible Hulk) colours, which are green and purple. Following the example provided in class was fairly easy to experiment with and get the desired outcome. 
