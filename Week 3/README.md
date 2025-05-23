@@ -1,6 +1,6 @@
 # Week-03 Task
 
-Manipulating and Analysing Pixels.
+Vector Graphics.
 
 ## Requirements
 
