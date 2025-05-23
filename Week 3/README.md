@@ -16,6 +16,7 @@ Run `Flower_Sketch_.pde` in Processing.
 
 ![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/20054eadab790781aaaeec564c1d298029dd80d2/Week%203/Screenshot%20(1).png)
 
+![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/20054eadab790781aaaeec564c1d298029dd80d2/Week%203/Screenshot%20(1).png)
 
 ## Design notes
 
