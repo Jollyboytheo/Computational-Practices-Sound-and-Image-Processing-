@@ -22,7 +22,7 @@ Run `Dithering.pde` and `Convolution.pde` 'Filters.pde in Processing.
 
 ![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/d239fa52076c9e694f1257182100710cc5c04260/Week%205/Convolution/LIBRA.jpg)
 
-![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/b42eecda419b1cae40309bfa3045a8d172abfb6f/Week%204/Tasks/Masking/Screenshot%20(masking).png)
+![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/c5c28a72f85510956923352913edfe96574cd450/Week%205/Convolution/LIBRA%20(B%26W).png)
 
 
 
