@@ -14,11 +14,12 @@ Run `Noise.pde`, `Filters.pde` and `Masking.pde` 'Filters.pde in Processing.
 
 ## Screengrab
 
-Noise
+
 ![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/ab2698f9be48ea7736c16b2111ad53738e84fd15/Week%204/Tasks/Noise/Screenshot%20(noise).png)
 
-Filters
+![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/ab2698f9be48ea7736c16b2111ad53738e84fd15/Week%204/Tasks/Noise/Screenshot%20(noise).png)
 
+![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/ab2698f9be48ea7736c16b2111ad53738e84fd15/Week%204/Tasks/Noise/Screenshot%20(noise).png)
 
 
 
