@@ -17,7 +17,7 @@ Run `Noise.pde`, `Filters.pde` and `Masking.pde` 'Filters.pde in Processing.
 
 ![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/ab2698f9be48ea7736c16b2111ad53738e84fd15/Week%204/Tasks/Noise/Screenshot%20(noise).png)
 
-![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/ab2698f9be48ea7736c16b2111ad53738e84fd15/Week%204/Tasks/Noise/Screenshot%20(noise).png)
+![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/fc1ccf2c03aee6d37b9e9f586b1741c04064f502/Week%204/Tasks/Filters/Screenshot%20(filter).png)
 
 ![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/ab2698f9be48ea7736c16b2111ad53738e84fd15/Week%204/Tasks/Noise/Screenshot%20(noise).png)
 
