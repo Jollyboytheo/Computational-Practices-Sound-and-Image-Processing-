@@ -17,7 +17,7 @@ Run `Dithering.pde` and `Convolution.pde` 'Filters.pde in Processing.
 
 ![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/4eb510ed3cfad988d5dbfcb1fcc5199e4718ab29/Week%205/Dithering/spider-man.jpg)
 
-![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/e4b8c6b5785451b0f1808915bf7b5120776410ae/Week%204/Tasks/Filters/111006152321_2.jpg)
+![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/9e3100441cd952a54c57eebf073c9f43e2632684/Week%205/Dithering/spider-man%20(B%26W).jpg)
 
 
 ![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/fc1ccf2c03aee6d37b9e9f586b1741c04064f502/Week%204/Tasks/Filters/Screenshot%20(filter).png)
