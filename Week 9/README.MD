@@ -10,7 +10,7 @@ No special libraries required.
 
 ## Operation
 
-Run 'Ball_Bounce.pde' and `Basketball_Game_.pde` in Processing. 
+Run `Ball_Bounce.pde` and `Basketball_Game_.pde` in Processing. 
 
 ## Screengrab
 
