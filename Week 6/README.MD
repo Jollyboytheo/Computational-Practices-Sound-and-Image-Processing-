@@ -10,7 +10,7 @@ No special libraries required.
 
 ## Operation
 
-Run `Dithering.pde` in Processing. 
+Run `Oscillator_.pde` in Processing. 
 
 ## Screengrab
 
