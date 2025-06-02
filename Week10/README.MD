@@ -10,7 +10,7 @@ No special libraries required.
 
 ## Operation
 
-Run `Dithering.pde` in Processing. 
+Run `Week_10.pde` in Processing. 
 
 ## Screengrab
 
@@ -21,4 +21,4 @@ Run `Dithering.pde` in Processing.
 
 ## Design notes
 
-For this project, I made use of an image of one of my favourite Marvel characters, Spiderman, for Dithering and made use of an image I found online that represents my star sign, being 'Libra' and used it to apply a convolution kernel.
+For this project, I created an interactive fire particle system. 
