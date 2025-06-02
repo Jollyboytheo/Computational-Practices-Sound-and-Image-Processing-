@@ -15,8 +15,7 @@ Run `Oscillator_.pde` in Processing.
 ## Screengrab
 
 
-Week 6/Screen Recording Oscillator.mp4
-
+https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/d5e175cf68bbdaaad0000201fe03fe7f71bf8f43/Week%206/Screen%20Recording%20Oscillator.mp4
 
 ## Design notes
 
