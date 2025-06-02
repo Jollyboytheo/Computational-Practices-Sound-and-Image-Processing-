@@ -15,7 +15,7 @@ Run `Basketball_Game_.pde` in Processing.
 ## Screengrab
 
 
-![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/4eb510ed3cfad988d5dbfcb1fcc5199e4718ab29/Week%205/Dithering/spider-man.jpg)
+![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/77974a6679644c636683387e1a2c674d24434afa/Week%209/Screenshot%20Basketball%20Game.png)
 
 
 
