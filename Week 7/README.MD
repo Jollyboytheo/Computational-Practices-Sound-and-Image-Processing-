@@ -10,7 +10,7 @@ No special libraries required.
 
 ## Operation
 
-Run `Dithering.pde` in Processing. 
+Run `Week_7_Task.pde` in Processing. 
 
 ## Screengrab
 
