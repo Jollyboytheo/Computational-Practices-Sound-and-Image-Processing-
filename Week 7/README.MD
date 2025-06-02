@@ -15,10 +15,9 @@ Run `Week_7_Task.pde` in Processing.
 ## Screengrab
 
 
-![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/4eb510ed3cfad988d5dbfcb1fcc5199e4718ab29/Week%205/Dithering/spider-man.jpg)
-
+https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/e71d9e27069c8157bd7e1914fdb2887121ea66c9/Week%207/Week_7_Task/Screen%20Recording%20Week%207.mp4
 
 
 ## Design notes
 
-For this project, I made use of an image of one of my favourite Marvel characters, Spiderman, for Dithering and made use of an image I found online that represents my star sign, being 'Libra' and used it to apply a convolution kernel.
+For this project, I made use of four samples for my distored music that can feel irritating to the ears. I sampled 120 BPM Drums, Rock and Roll 808 Drum, Electronic, German Ambulance, and Pulse.
