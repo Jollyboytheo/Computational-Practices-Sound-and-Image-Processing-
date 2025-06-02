@@ -14,7 +14,7 @@ Run `Ball_Bounce.pde` and `Basketball_Game_.pde` in Processing.
 
 ## Screengrab
 
-![image alt] (https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/3b30816a86768ec5eb6b3341270ccbe9a7071806/Week%209/Screenshot%20Ball%20Bounce.png)
+![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/3b30816a86768ec5eb6b3341270ccbe9a7071806/Week%209/Screenshot%20Ball%20Bounce.png)
 
 ![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/77974a6679644c636683387e1a2c674d24434afa/Week%209/Screenshot%20Basketball%20Game.png)
 
