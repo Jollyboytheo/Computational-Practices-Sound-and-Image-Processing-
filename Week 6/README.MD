@@ -18,4 +18,4 @@ https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processi
 
 ## Design notes
 
-For this project, I made use of an image of one of my favourite Marvel characters, Spiderman, for Dithering and made use of an image I found online that represents my star sign, being 'Libra' and used it to apply a convolution kernel.
+For this project, we were tasked with creating a sound effect for a sci-fi movie, specifically for the moment when the main characters arrive on a new planet. I experimented with an oscillator and several filters to achieve this result. The sound changes based on where the mouse is on the screen. 
