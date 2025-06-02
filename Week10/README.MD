@@ -15,7 +15,7 @@ Run `Week_10.pde` in Processing.
 ## Screengrab
 
 
-![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/4eb510ed3cfad988d5dbfcb1fcc5199e4718ab29/Week%205/Dithering/spider-man.jpg)
+![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/a5c3d9473c2de08c2bdcdfa6bf0c7199daccc85a/Week10/Screenshot%20Interactive%20Fire%20Particle%20Sysytem%20.png)
 
 
 
