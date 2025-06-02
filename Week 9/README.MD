@@ -24,4 +24,10 @@ https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processi
 
 ## Design notes
 
-For this project, I made use of an image of one of my favourite Marvel characters, Spiderman, for Dithering and made use of an image I found online that represents my star sign, being 'Libra' and used it to apply a convolution kernel.
+For this project, we had to make a ball bounce on mouse interaction and also create a game using all of the below:
+
+- at least 1 class
+- at least 2 forces influencing the object's movement
+- at least 1 type of interaction.
+
+I ended up creating a basketball game that has a moving rim, and the user should try and score as many points as they can before the 1-minute clock runs out. 
