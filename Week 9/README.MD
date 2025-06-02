@@ -10,7 +10,7 @@ No special libraries required.
 
 ## Operation
 
-Run `Dithering.pde` in Processing. 
+Run `Basketball_Game_.pde` in Processing. 
 
 ## Screengrab
 
