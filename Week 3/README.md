@@ -23,4 +23,4 @@ https://github.com/user-attachments/assets/6e261f7a-4151-44f2-a439-cf9a7a5bde1e
 
 ## Design notes
 
-For this project, I took inspiration from a flower.
+This project, inspired by a flower, is one I decided to further develop on my own.
