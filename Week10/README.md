@@ -18,7 +18,7 @@ Run `Week_10.pde` in Processing.
 ![image alt](https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/a5c3d9473c2de08c2bdcdfa6bf0c7199daccc85a/Week10/Screenshot%20Interactive%20Fire%20Particle%20Sysytem%20.png)
 
 
-Uploading Screen Recording Fire Interactive Particles System mp4.mp4…
+https://github.com/user-attachments/assets/e0d08eb2-a88b-4e57-b914-16481617aa72
 
 
 ## Design notes
