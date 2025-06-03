@@ -15,7 +15,7 @@ Run `Week_7_Task.pde` in Processing.
 ## Screengrab
 
 
-https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/e71d9e27069c8157bd7e1914fdb2887121ea66c9/Week%207/Week_7_Task/Screen%20Recording%20Week%207.mp4
+https://github.com/user-attachments/assets/97ef6180-7f1c-449c-bb42-ab6f6ebae25e
 
 
 ## Design notes
