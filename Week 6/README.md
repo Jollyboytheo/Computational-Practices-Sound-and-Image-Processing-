@@ -18,8 +18,6 @@ Run `Oscillator_.pde` in Processing.
 https://github.com/user-attachments/assets/1019d5d5-358e-4890-9ecc-d22dcf47c8b7
 
 
-https://github.com/Jollyboytheo/Computational-Practices-Sound-and-Image-Processing-/blob/99140f285f7becf0d127bc4faf482cc1ca22b330/Week%206/Screen%20Recording%20Oscillator.mp4
-
 ## Design notes
 
 For this project, we were tasked with creating a sound effect for a sci-fi movie, specifically for the moment when the main characters arrive on a new planet. I experimented with an oscillator and several filters to achieve this result. The sound changes based on where the mouse is on the screen. 
